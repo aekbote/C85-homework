@@ -1,1 +1,2 @@
-# C85-homework
+# spectagram-stage-4
+project solution c84
